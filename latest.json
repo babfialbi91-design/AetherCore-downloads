@@ -1,10 +1,10 @@
 {
-    "version": "1.0.9.0",
-    "jar": "https://raw.githubusercontent.com/babfialbi91-design/AetherCore-downloads/main/jars/AetherCore-Launcher-1.0.9.0.jar",
+    "version": "1.0.10.0",
+    "jar": "https://raw.githubusercontent.com/babfialbi91-design/AetherCore-downloads/main/jars/AetherCore-Launcher-1.0.10.0.jar",
     "jar_urls": [
         "https://aethercore-launcher.pages.dev/AetherCore-Launcher.jar",
-        "https://github.com/babfialbi91-design/AetherCore-downloads/releases/download/v1.0.9/AetherCore-Launcher.jar"
+        "https://github.com/babfialbi91-design/AetherCore-downloads/releases/download/v1.0.10/AetherCore-Launcher.jar"
     ],
-    "jarsha1": "5fc5be3b2d6483e621a9e717eeb958151b95916a",
+    "jarsha1": "93a42f8365eeb37a7ad89c3e4c087512675f8471",
     "force": false
 }
